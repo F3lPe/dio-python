@@ -26,6 +26,7 @@ total = depositar(200)
 print(total)
 
 number = 10
+
 #ternário
 print("É 10" if number >= 10 else "não é 10")
 
