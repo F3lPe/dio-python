@@ -37,7 +37,7 @@ listaNomes = ["felippe", "ana", "Carol"]
 for nome in listaNomes:
     print(nome)
 else:
-    print("dwadwa")
+    print("fim da lista")
 
 numero = 0
 
